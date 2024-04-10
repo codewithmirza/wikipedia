@@ -54,7 +54,7 @@ cd wikipedia
 ```
 Open the index.html file in your preferred web browser.
 
-Explore the interface, search for articles, and utilize the various accessibility features provided by Wajipedia.
+Explore the interface, search for articles, and utilize the various accessibility features provided by Wikipedia.
 
 
 ## Credits
