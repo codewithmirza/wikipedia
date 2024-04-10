@@ -50,7 +50,7 @@ git clone https://github.com/codewithmirzaa/wikipedia.git
 2. Navigate to the project directory:
 
 ```
-cd wajipedia
+cd wikipedia
 ```
 Open the index.html file in your preferred web browser.
 
